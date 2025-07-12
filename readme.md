@@ -58,10 +58,6 @@ Pada Gambar Dashboard 2, terdapat visualisasi mengenai perbandingan antara jumla
 ![Alt Text](dashboard/hamzhrdn-dashboard-3.png)
 Pada Gambar tersebut, ditunjukkan jumlah attrition terhadap tingkat Job Satisfaction dan Work Life Balance dalam bentuk bar chart dan heatmap. Berdasarkan visualisasi tersebut tingkat attrition tertinggi terdapat pada tingkat Job Satisfaction High (3) dan Work Life Balance Excellent (3) dilanjutkan dengan Job Satisfaction Low (1) dan Work Life Balance Excellent (3). Hal tersebut tidak bisa dijadikan sebagai faktor utama sebagai penyebab dari seorang karyawan keluar karena mayoritas pada karyawan dengan tingkat Work Life Balance yang tinggi (Excellent).
 
-## Credential Metabase
-email: user1234@mail.com
-password: User1234
-
 # **Conclusion**
 Berdasarkan analisis data dan pemodelan machine learning, kesimpulan berikut disusun untuk menjawab permasalahan tingginya attrition rate di Jaya Jaya Maju:
 

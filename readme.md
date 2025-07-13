@@ -1,4 +1,4 @@
-# **Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech**
+# **Proyek Akhir: Menyelesaikan Permasalahan Perusahaan**
 ## **Business Understanding**
 Jaya Jaya Maju merupakan perusahaan multinasional yang bergerak di bidang Edutech (Teknologi Pendidikan) dan telah berdiri sejak tahun 2000. Perusahaan tersebut memiliki lebih dari 1000 karyawan yang tersebar di seluruh penjuru negeri. Meskipun menjadi perusahaan yang cukup besar, Jaya Jaya Maju menghadapi tantangan operasional yang signifikan, terutama dalam pengelolaan sumber daya manusia. Hal ini tercermin dari rasio jumlah karyawan yang keluar (attrition rate) yang melebihi 10% setiap tahunnya, sebuah angka yang mengindikasikan adanya permasalahan mendasar dalam retensi karyawan.
 
